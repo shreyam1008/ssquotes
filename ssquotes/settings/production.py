@@ -25,7 +25,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '!0gpy8m5(5$1e=_#l_*bvo64vd5pngnfwu*7*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['ssquotes.herokuapp.com', '.ssquotes.com']
+ALLOWED_HOSTS = ['ssquotes.herokuapp.com']
 
 
 
