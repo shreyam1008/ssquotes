@@ -1,0 +1,1 @@
+web: gunicorn ssquotes.wsgi
